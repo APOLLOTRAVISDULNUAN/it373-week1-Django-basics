@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block title %}Home{% endblock title %}
+{% block content %}
+
+    <h1>Welcome to week1</h1>
+    <p>This starter shows the django project structure.</p>
+
+    <ul>
+        <li>Course: {{ course}}</li>
+        <li>Week: {{ week1}}</li>
+    </ul>
+
+    <p> try the <a href="{% url 'about'%}">about</a> page</p>
+{% endblock content %}
