@@ -1,0 +1,6 @@
+Apollo Travis R. Dulnuan 2022-05941
+python version =Python 3.13.7
+venv active    = (.venv) PS C:\Users\Acer\desktop\it373-Week1-django-basics>
+Django Version = Django==5.2.6
+Runserver working = Starting development server at http://127.0.0.1:8000/
+git set remote = origin
